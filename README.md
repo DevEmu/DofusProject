@@ -1,4 +1,4 @@
-DofusProject
+﻿DofusProject
 ============
 
-Les projets communautaires effectués par la communauté www.devemu.com
+Tous les projets sont strictement réservés a la communauté www.devemu.com
